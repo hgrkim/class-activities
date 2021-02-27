@@ -1,0 +1,21 @@
+body{text-align: center;
+    font-family: 'Arial';
+    background-color:#F8F6F1
+
+    ;
+}
+
+h1{
+    color: plum;
+    border:10px plum;
+    text-align: center;
+}
+h2{
+    color:darkseagreen
+}
+p{
+    color:steelblue
+}
+a{color:white;
+background-color: plum;
+text-decoration: underline;}
