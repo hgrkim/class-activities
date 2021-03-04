@@ -9,21 +9,21 @@ nav{
     text-align: center;
     width:50px;
     vertical-align: middle;
+
 }
 
 .sidebar{
     width:29%;
     height: 500px;
-    background-color: blue;
+    background-color:blue;
     float: left;
 }
 
 .maincontent{
     width:70%;
     float: left;
-    padding: 40px;
 }
 
 .mainfish{
-    width:250px
+    width:350px
 }
