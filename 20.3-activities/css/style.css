@@ -1,0 +1,42 @@
+
+#hero{
+    background-image: url("../images/heroimage.png");
+    background-color: none !important;
+    height: 100vh;
+    background-size: cover;
+    color: white;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.lead{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.navbar a{
+    color: white !important;
+    display: inline;
+}
+
+
+
+.jumbotron{
+    background-color: transparent;
+}
+
+
+
